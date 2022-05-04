@@ -11,6 +11,10 @@
 
 - 📫 How to reach me **gatobugado.dev@gmail.com**
 
+![GatoBugado's GitHub stats](https://github-readme-stats.vercel.app/api?username=BuggedCat&show_icons=true&theme=solarized-dark)<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BuggedCat&theme=solarized-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
     <a href="https://dev.to/buggedcat" target="blank"><img align="center"
