@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm GatoBugado</h1>
+<h1 align="center">Olá! :smile_cat:</h1>
 <h3 align="center">Um dev banckend e engenheiro de dados, criador de bugs e as vezes features</h3>
 
 - 🔭 I’m currently working on [Creating a personal blog](https://dev.to/buggedcat)
