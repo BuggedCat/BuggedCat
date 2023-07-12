@@ -3,7 +3,7 @@
 
 ## 💬 Sobre mim
 
-- 🔭 Estou trabalhando em: [Criar um blog pessoal](https://dev.to/buggedcat)
+- 🔭 Estou trabalhando como: Engenheiro de Dados na [Neon](https://neon.com.br)
 
 - 🌱 Estou aprendendo: **Python, AWS, SQL, Apache Spark, CI/CD, Airflow**
 
@@ -11,7 +11,7 @@
 
 - 💬 Pode me perguntar sobre: **Python, Django, SQL, Cloud, Web Scraping**
 
-- 📫 Contato: **gatobugado.dev@gmail.com**
+- 📫 Contato: **gian.lepear@gmail.com**
 
 ## 📈 Github Stats
 
